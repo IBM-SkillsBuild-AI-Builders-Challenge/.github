@@ -22,6 +22,7 @@ Whether you're new to AI or a seasoned builder, this space is where learning mee
 | Repository | Description | Stack |
 |---|---|---|
 | [**hands-on-labs**](https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/hands-on-labs) | Learning labs for each monthly challenge — start here! | Jupyter Notebook |
+| [**Fine-Tuning-Llama-2**](https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/Fine-Tune-LLM-With-Custom-Dataset-Using-LoRA-QLoRA) | A practical implementation of fine-tuning Llama 2 7B Chat using a custom instruction dataset with LoRA and QLoRA by [**Raimal-Raja**](https://github.com/Raimal-Raja)| Jupyter Notebook |
 | [**f1-telemetry-vfs-router**](https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/f1-telemetry-vfs-router) | Zero-latency edge architecture pairing a custom VFS with IBM Granite, syncing F1 telemetry with driver biometrics to predict failures in real time | Python |
 | [**RaceRecapAi**](https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/RaceRecapAi) | AI-powered F1 analytics platform turning race telemetry into personalized recaps using FastF1 + watsonx.ai Granite models | Python |
 | [**BioTactix-AI**](https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/BioTactix-AI) | Biotech-focused AI project from the challenge series | — |
